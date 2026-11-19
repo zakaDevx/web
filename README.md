@@ -155,7 +155,7 @@
                 <!-- Ganti nama file foto di bagian src di bawah ini -->
                 <div class="lg:col-span-5 flex flex-col items-center justify-center">
                     <div class="w-64 h-80 sm:w-72 sm:h-96 border border-line bg-card overflow-hidden">
-                        <img src="zakaria.jpeg" 
+                        <img src= "zakaria.jpeg" 
                              onerror="this.src='https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d"
                              alt="Foto Zakaria Ilham" 
                              class="w-full h-full object-cover grayscale contrast-125 transition-transform duration-500 hover:scale-105" />
